@@ -1,0 +1,7 @@
+version: v1.5.0
+ignore:
+  SNYK-RUBY-FASTREADER-20085:
+    - '* > fastreader@1.0.8':
+        reason: None given
+        expires: '2016-12-08T12:03:37.302Z'
+patch: {}
