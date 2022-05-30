@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 gem 'fastreader'
 gem 'nokogiri'
-gem 'rack', '~> 1.1'
+gem 'rack', '~> 2.0', '>= 2.0.9.1'
 gem 'rspec'
 gem 'pdfkit', '~> 0.5'
